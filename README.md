@@ -5,7 +5,7 @@ Graduate of Mathematics and Statistics from The University of Oxford, Brasenose 
 
 In July 2023 I was awarded a Masters with Merit in Mathematics & Statistics from the University of Oxford, achieving a Distinction in my dissertation. 
 
-I am now applying for a PHD in Reinforcement Learning, to start in Autumn 2024.
+I am now working as a research assistant at Imperial College London's Safe Artificial Intelligence Lab
 
 ## Masters 
 Below is a summary of my most relevant fourth year modules, along with their marks.
