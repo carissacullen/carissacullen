@@ -5,7 +5,7 @@ Graduate of Mathematics and Statistics from The University of Oxford, Brasenose 
 
 In July 2023 I was awarded a Masters with Merit in Mathematics & Statistics from the University of Oxford, achieving a Distinction in my dissertation. 
 
-In October 2025 I commened a DPhil (PhD) in AI Safety within the Department of Engineering Sciences. I work with supervisors Professor Philip Torr and Dr Christian Schroeder De Witt and am a member of the Torr Vision Group. I am currently exploring AI Deception
+In October 2025 I commenced a DPhil (PhD) in AI Safety within the Department of Engineering Sciences at The University of Oxford. I work with supervisors Professor Philip Torr and Dr Christian Schroeder De Witt and am a member of the Torr Vision Group. I am currently exploring AI Deception
 
 ## Masters 
 Below is a summary of my most relevant fourth year modules, along with their marks.
